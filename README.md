@@ -14,8 +14,11 @@
 ## Languages used:
 <code><img height="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
 
-#
+## More Info:
 
+✨ To know more about Python GUI – tkinter refer [here](https://www.geeksforgeeks.org/python-gui-tkinter/)! 
+
+# 
 📣 Feel free to have a look at this repository !🤗
 
 ❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/Aditya-Bhate/Aditya-Bhate/issues)! 👈
